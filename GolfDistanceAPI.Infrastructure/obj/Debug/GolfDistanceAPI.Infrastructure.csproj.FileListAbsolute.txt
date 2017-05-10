@@ -1,0 +1,7 @@
+C:\Repositories\Personal\GolfDistanceAPI\GolfDistanceAPI\GolfDistanceAPI.Infrastructure\obj\Debug\GolfDistanceAPI.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Repositories\Personal\GolfDistanceAPI\GolfDistanceAPI\GolfDistanceAPI.Infrastructure\bin\Debug\GolfDistanceAPI.Infrastructure.dll
+C:\Repositories\Personal\GolfDistanceAPI\GolfDistanceAPI\GolfDistanceAPI.Infrastructure\bin\Debug\GolfDistanceAPI.Infrastructure.pdb
+C:\Repositories\Personal\GolfDistanceAPI\GolfDistanceAPI\GolfDistanceAPI.Infrastructure\bin\Debug\GolfDistanceAPI.Domain.dll
+C:\Repositories\Personal\GolfDistanceAPI\GolfDistanceAPI\GolfDistanceAPI.Infrastructure\bin\Debug\GolfDistanceAPI.Domain.pdb
+C:\Repositories\Personal\GolfDistanceAPI\GolfDistanceAPI\GolfDistanceAPI.Infrastructure\obj\Debug\GolfDistanceAPI.Infrastructure.dll
+C:\Repositories\Personal\GolfDistanceAPI\GolfDistanceAPI\GolfDistanceAPI.Infrastructure\obj\Debug\GolfDistanceAPI.Infrastructure.pdb

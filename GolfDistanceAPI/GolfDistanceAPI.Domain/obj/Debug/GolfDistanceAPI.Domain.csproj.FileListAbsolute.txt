@@ -1,0 +1,4 @@
+C:\Repositories\Personal\GolfDistanceAPI\GolfDistanceAPI\GolfDistanceAPI.Domain\bin\Debug\GolfDistanceAPI.Domain.dll
+C:\Repositories\Personal\GolfDistanceAPI\GolfDistanceAPI\GolfDistanceAPI.Domain\bin\Debug\GolfDistanceAPI.Domain.pdb
+C:\Repositories\Personal\GolfDistanceAPI\GolfDistanceAPI\GolfDistanceAPI.Domain\obj\Debug\GolfDistanceAPI.Domain.dll
+C:\Repositories\Personal\GolfDistanceAPI\GolfDistanceAPI\GolfDistanceAPI.Domain\obj\Debug\GolfDistanceAPI.Domain.pdb

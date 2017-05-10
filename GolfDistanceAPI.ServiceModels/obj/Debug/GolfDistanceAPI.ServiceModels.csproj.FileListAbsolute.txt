@@ -1,0 +1,4 @@
+C:\Repositories\Personal\GolfDistanceAPI\GolfDistanceAPI\GolfDistanceAPI.ServiceModels\bin\Debug\GolfDistanceAPI.ServiceModels.dll
+C:\Repositories\Personal\GolfDistanceAPI\GolfDistanceAPI\GolfDistanceAPI.ServiceModels\bin\Debug\GolfDistanceAPI.ServiceModels.pdb
+C:\Repositories\Personal\GolfDistanceAPI\GolfDistanceAPI\GolfDistanceAPI.ServiceModels\obj\Debug\GolfDistanceAPI.ServiceModels.dll
+C:\Repositories\Personal\GolfDistanceAPI\GolfDistanceAPI\GolfDistanceAPI.ServiceModels\obj\Debug\GolfDistanceAPI.ServiceModels.pdb
