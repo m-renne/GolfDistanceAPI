@@ -41,6 +41,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Clubs\Enums\ClubType.cs" />
+    <Compile Include="Courses\Course.cs" />
+    <Compile Include="GeoCoordinates\GeoCoordinate.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Rounds\Round.cs" />
     <Compile Include="Swings\Swing.cs" />

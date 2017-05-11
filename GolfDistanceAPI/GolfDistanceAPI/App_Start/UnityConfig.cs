@@ -1,9 +1,7 @@
-using GolfDistanceAPI.Application.Interfaces.Services;
-using GolfDistanceAPI.Application.Services;
+using AutoMapper;
+using GolfDistanceAPI.App_Start;
 using GolfDistanceAPI.Infrastructure.Factories;
 using GolfDistanceAPI.Infrastructure.Interfaces.Factories;
-using GolfDistanceAPI.Infrastructure.Interfaces.Repositories;
-using GolfDistanceAPI.Infrastructure.Repositories;
 using Microsoft.Practices.Unity;
 using System.Web.Http;
 using Unity.WebApi;
@@ -30,6 +28,12 @@ namespace GolfDistanceAPI
             container.RegisterType<IBaseFactory, ServiceFactory>("serviceFactory");
             container.RegisterType<IBaseFactory, RepositoryFactory>("repositoryFactory");
 
+            // Register Auto Mappings
+            MapperConfiguration mapperConfiguration = new MapperConfiguration(c => { });
+            AutoMapperConfig.Configure(mapperConfiguration);
+
+            IMapper mapper = mapperConfiguration.CreateMapper();
+            container.RegisterInstance(typeof(IMapper), mapper);
 
             GlobalConfiguration.Configuration.DependencyResolver = new UnityDependencyResolver(container);
         }

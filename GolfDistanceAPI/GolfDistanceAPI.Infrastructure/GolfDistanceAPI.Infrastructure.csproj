@@ -43,9 +43,11 @@
     <Compile Include="Factories\RepositoryFactory.cs" />
     <Compile Include="Factories\ServiceFactory.cs" />
     <Compile Include="Interfaces\Factories\IBaseFactory.cs" />
+    <Compile Include="Interfaces\Repositories\ICoursesRepository.cs" />
     <Compile Include="Interfaces\Repositories\IRoundsRepository.cs" />
     <Compile Include="Interfaces\Repositories\ISwingsRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repositories\CoursesRepository.cs" />
     <Compile Include="Repositories\RoundsRepository.cs" />
     <Compile Include="Repositories\SwingsRepository.cs" />
   </ItemGroup>

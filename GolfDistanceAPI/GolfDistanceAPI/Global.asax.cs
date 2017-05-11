@@ -12,10 +12,6 @@ namespace GolfDistanceAPI
 
             // Register Unity Components
             UnityConfig.RegisterComponents();
-
-            // Register Auto Mappings
-            MapperConfiguration mapperConfiguration = new MapperConfiguration(c => { });
-            AutoMapperConfig.Configure(mapperConfiguration);
         }
     }
 }
